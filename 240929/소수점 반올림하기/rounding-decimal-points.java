@@ -4,7 +4,5 @@ public class Main {
         double a = 25.352;
         System.out.printf("%.1f", a);
 
-        double b = 1.3
-        System.out.printf("%f");
     }
 }
