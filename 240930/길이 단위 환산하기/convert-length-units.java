@@ -6,8 +6,8 @@ public class Main {
         double ftTocm = 30.48;
 
         Scanner sc = new Scanner(System.in);
-        int a = sc.nextDouble();
-        System.out.print(a * ftTocm);
+        double a = sc.nextDouble();
+        System.out.printf("%.1f", a * ftTocm);
 
     }
 }
