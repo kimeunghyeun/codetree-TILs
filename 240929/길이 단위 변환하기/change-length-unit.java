@@ -6,7 +6,7 @@ public class Main {
         double a = oneFit * 9.2;
         double b = oneMile * 1.3;
 
-        System.out.printf("%fft = %.1fcm\n", 9.2, a);
-        System.out.printf("%fmi = %.1fcm", 1.3, b);
+        System.out.printf("%.1fft = %.1fcm\n", 9.2, a);
+        System.out.printf("%.1fmi = %.1fcm", 1.3, b);
     }
 }
