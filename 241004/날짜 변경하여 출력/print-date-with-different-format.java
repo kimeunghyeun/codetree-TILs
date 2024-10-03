@@ -9,6 +9,6 @@ public class Main {
 
         int a = sc.nextInt(), b = sc.nextInt(), c = sc.nextInt();
 
-        System.out.printf("%d-%d-%d", b, c, a)
+        System.out.printf("%d-%d-%d", b, c, a);
     }
 }
