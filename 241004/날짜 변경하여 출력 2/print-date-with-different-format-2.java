@@ -9,7 +9,7 @@ public class Main {
 
         int a = sc.nextInt(), b = sc.nextInt(), c = sc.nextInt();
 
-        System.out.printf("%d.%d.%d", c, b, a);
+        System.out.printf("%d.%d.%d", c, a, b);
 
     }
 }
