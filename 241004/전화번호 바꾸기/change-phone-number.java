@@ -8,6 +8,6 @@ public class Main {
         sc.useDelimiter("-");
         int n = sc.nextInt(), x = sc.nextInt(), y = sc.nextInt();
 
-        System.out.printf("010-%d-%d", x, y);
+        System.out.printf("010-%d-%d", y, x);
     }
 }
