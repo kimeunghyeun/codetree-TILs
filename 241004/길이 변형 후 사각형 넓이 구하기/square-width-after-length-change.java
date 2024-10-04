@@ -8,7 +8,7 @@ public class Main {
         int a = sc.nextInt();
         int b = sc.nextInt();
         a += 8;
-        b = 3b;
+        b *= 3;
 
         System.out.println(a);
         System.out.println(b);
