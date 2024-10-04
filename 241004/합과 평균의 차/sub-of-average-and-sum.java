@@ -8,8 +8,8 @@ public class Main {
 
         int a = sc.nextInt(), b = sc.nextInt(), c = sc.nextInt();
 
-        System.out.print(a+b+c);
-        System.out.print((a+b+c)/3);
-        System.out.print((a+b+c)/3*2);
+        System.out.println(a+b+c);
+        System.out.println((a+b+c)/3);
+        System.out.print((a+b+c)-((a+b+c)/3));
     }
 }
