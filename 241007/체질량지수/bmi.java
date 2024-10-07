@@ -7,7 +7,7 @@ public class Main {
         int h = sc.nextInt(), w = sc.nextInt();
 
         int b = 10000 * w / h * h;
-        System.out.printf("%d\n", b)
+        System.out.printf("%d\n", b);
 
 
         if (b >= 25) {
