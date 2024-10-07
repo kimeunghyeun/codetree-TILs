@@ -6,7 +6,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
 
-        System.out.print(a);
+        System.out.println(a);
         if (a < 0) {
             System.out.print("minus");
         }
