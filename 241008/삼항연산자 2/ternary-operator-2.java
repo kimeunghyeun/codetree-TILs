@@ -6,7 +6,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
 
         int a = sc.nextInt();
-        char n;
+        String n;
         n = a == 1 ? "t" : "f";
         
     }
