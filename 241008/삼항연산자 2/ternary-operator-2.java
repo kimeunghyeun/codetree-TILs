@@ -7,7 +7,7 @@ public class Main {
 
         int a = sc.nextInt();
         char n;
-        n = (a = 1) ? "t" : "f";
+        n = (a == 1) ? "t" : "f";
         
     }
 }
