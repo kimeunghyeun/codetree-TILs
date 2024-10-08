@@ -8,6 +8,7 @@ public class Main {
         int a = sc.nextInt();
         String n;
         n = a == 1 ? "t" : "f";
+        System.out.print(n);
         
     }
 }
