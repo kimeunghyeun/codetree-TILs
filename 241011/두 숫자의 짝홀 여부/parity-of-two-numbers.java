@@ -7,9 +7,9 @@ public class Main {
 
         int a = sc.nextInt(), b = sc.nextInt();
         if (a % 2 == 1) {
-            System.out.print("odd");
+            System.out.println("odd");
         } else {
-            System.out.print("even");
+            System.out.println("even");
         }
 
         if (b % 2 == 1) {
