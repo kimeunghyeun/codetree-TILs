@@ -17,7 +17,7 @@ public class Main {
         } else if (n == "D") {
             System.out.print("Effort");
         } else {
-            System.out.print("Failure")
+            System.out.print("Failure");
         }
 
 
