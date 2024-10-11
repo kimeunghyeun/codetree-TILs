@@ -7,13 +7,13 @@ public class Main {
         int a = sc.nextInt(), b = sc.nextInt(), c = sc.nextInt();
         
         if (a < b && a < c) {
-            System.out.print(1);
+            System.out.print(1 + " ");
         } else {
             System.out.print(0);
         }
 
         if (a == b && a == c) {
-            System.out.print(1 + " ");
+            System.out.print(1);
         } else {
             System.out.print(0);
         }
