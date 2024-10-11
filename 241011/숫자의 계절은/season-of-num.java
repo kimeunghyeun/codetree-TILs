@@ -9,11 +9,17 @@ public class Main {
 
         if (m >= 3 && m <= 5) { 
             System.out.print("Spring");
-        } else if (m <= 8 || m >= 6) { 
+        } 
+        
+        else if (m <= 8 && m >= 6) { 
             System.out.print("Summer");
-        } else if (m >= 9 || m <= 11){
+        } 
+        
+        else if (m >= 9 && m <= 11){
             System.out.print("Fall");
-        } else {
+        } 
+        
+        else {
             System.out.print("Winter");
         }
 
